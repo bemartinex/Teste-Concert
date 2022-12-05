@@ -1,0 +1,14 @@
+{
+  "name": "cypress-google",
+  "version": "1.0.0",
+  "description": "Testando o site Google em Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Breno Martinez",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  }
+}
